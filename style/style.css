@@ -1,16 +1,7 @@
-/* CSS Snippet from W3schools: https://www.w3schools.com/howto/howto_css_contact_form.asp */
-/* Style inputs with type="text", select elements and textareas */
-input[type=message], input[type=email], input[type=text], textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+[data-testid="stAppViewContainer"] {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fcasino-background&psig=AOvVaw3VxxCC6gSTOH9qkiU1F4Ao&ust=1720267702861000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiAqN7uj4cDFQAAAAAdAAAAABAE");
+    background-size: cover;
 }
-
 
 div.block-container.st-emotion-cache-1jicfl2.ea3mdgi5 {
     background-color: lightblue;
