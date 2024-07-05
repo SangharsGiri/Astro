@@ -89,10 +89,7 @@ page_bg_img = """
 
 }
 .st-emotion-cache-1gnzxwn{
-	background-color: #273346;
-}
-body{
-    background-color: #273346 !important;
+	background-color: #273346 !important;
 }
 </style>
 """
