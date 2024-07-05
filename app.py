@@ -27,7 +27,7 @@ lottie_file3 = lottieurl("https://lottie.host/3f3af8d7-0933-41f8-be57-6a4031c309
 lottie_file4 = lottieurl("https://lottie.host/d63a36fd-2a4d-445c-9c92-cde96faaefad/vuK17rflxL.json")
 
 
-st.markdown("<h1 style='text-align: center; color: white;'>WELCOME TO ASTRO GAMING</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: grey;'>WELCOME TO ASTRO GAMING</h1>", unsafe_allow_html=True)
 
 with st.container():
 	col1 = st.columns(1)
