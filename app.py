@@ -74,7 +74,7 @@ with st.container():
 st.write("---")
 	
 
-style = "<style>[data-testid="stAppViewContainer"] { background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fcasino-background&psig=AOvVaw3VxxCC6gSTOH9qkiU1F4Ao&ust=1720267702861000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiAqN7uj4cDFQAAAAAdAAAAABAE");, background-size: cover; }, .row-widget.stLinkButton {text-align: center;}, MainMenu {visibility: hidden;}, fotter {visibility: hidden;}, header {visibility: hidden;}</style>"
+style = "<style>.row-widget.stLinkButton {text-align: center;}, MainMenu {visibility: hidden;}, fotter {visibility: hidden;}, header {visibility: hidden;}</style>"
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"] {
